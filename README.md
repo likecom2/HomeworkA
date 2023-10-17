@@ -1,11 +1,12 @@
 # HomeworkA
-测试用例：\n
-基本画图，生成新表，储存表为xlsx的测试用例\n
-数据文件\n
-excel_file_example.xlsx\n
-替代缺失值\n
-I want to reuse result. replace missing value with column mean in id column.\n
-生成新特征\n
+<!-- USAGE EXAMPLES -->
+测试用例：
+基本画图，生成新表，储存表为xlsx的测试用例
+数据文件
+excel_file_example.xlsx
+替代缺失值
+I want to reuse result. replace missing value with column mean in id column.
+生成新特征
 I want to reuse result. add a new column to the table. the column is age deviation from mean
 保存结果表
 I want to save last table as: result
