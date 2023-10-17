@@ -1,5 +1,6 @@
 # HomeworkA
 <!-- USAGE EXAMPLES -->
+## Usage
 测试用例：
 基本画图，生成新表，储存表为xlsx的测试用例
 数据文件
