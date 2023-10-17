@@ -30,9 +30,13 @@ can you plot me a line chart, use countries as columns and average age in that c
 
 can you plot me a bar chart, use countries as columns and number of people in that country as data
 
+![alt text](https://github.com/likecom2/HomeworkA/blob/main/%E6%9F%B1%E7%8A%B6%E5%9B%BE1.png)
+
 ##散点图的输出不稳定，需要多试几次
 
 plot me a scatter chart, use each country as columns and people's 25% quantile age ,50% quantile age,75% quantile age in that country as data.  
+
+![alt text](https://github.com/likecom2/HomeworkA/blob/main/%E6%95%A3%E7%82%B9%E5%9B%BE1.png)
 
 进阶数据处理，指标，统计检验测试用例
 
