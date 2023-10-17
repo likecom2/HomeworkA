@@ -23,7 +23,8 @@ I want to save last table as: result
 ##画线图
 
 can you plot me a line chart, use countries as columns and average age in that country as data
-![alt text](https://github.com/likecom2/HomeworkA/线图1.png)
+
+![alt text](https://github.com/likecom2/HomeworkA/blob/main/%E7%BA%BF%E5%9B%BE1.png)
 
 ##画柱状图
 
