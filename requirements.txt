@@ -1,0 +1,10 @@
+langchain
+openai
+streamlit
+python-environ
+tabulate
+openpyxl
+scipy
+statsmodels
+scikit-learn
+matplotlib
