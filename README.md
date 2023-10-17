@@ -24,6 +24,7 @@ I want to save last table as: result
 
 can you plot me a line chart, use countries as columns and average age in that country as data
 ![alt text](https://github.com/likecom2/HomeworkA/线图1.png)
+
 ##画柱状图
 
 can you plot me a bar chart, use countries as columns and number of people in that country as data
